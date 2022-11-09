@@ -34,7 +34,7 @@ salario bruto
 Salario neto
 
 ## Etapa 3. Diagrama de la solución
-![](https://github.com/DulceSP/T3A6/blob/main/T3A6.png)
+![](https://github.com/DulceSP/T3A6/blob/main/t3a6-32.png)
 
 ## Etapa 4. Solución
 https://github.com/DulceSP/T3A6/blob/main/T3A6_22TE0032.zip
