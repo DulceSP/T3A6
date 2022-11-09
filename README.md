@@ -17,10 +17,26 @@ Por último, mostrar un reporte de los trabajadores con sus datos, su salario br
 
 ## Etapa 2. Diseño de la solución
 
+-Entrada
+Variables String: nombre, apellidos, rfc, curp, correoelectronico, tipodeEmpleados
+Variables Int: telefono, totaldeEmpleados, numeroContrato, horasContrato, salarioBase, antiguedad
 
+-Proceso
+Bono por antiguedad
+Calcular ISR
+Salario neto
+
+-Salida
+Datos personales
+Bono por antiguedad
+ISR
+salario bruto
+Salario neto
 
 ## Etapa 3. Diagrama de la solución
-
+![](https://github.com/DulceSP/T3A6/blob/main/T3A6.png)
 
 ## Etapa 4. Solución
+https://github.com/DulceSP/T3A6/blob/main/T3A6_22TE0032.zip
+
 
