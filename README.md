@@ -10,6 +10,17 @@ de 3 a 5 años de antigüedad se asigna un bono del 3% y si el trabajador es adm
 De 6 a 10 años de antigüedad recibe un bono adicional del 8% y si el trabajador es administrativo, entonces el bono será del 12%.
 Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguiente imagen:
 
-![]()
+(![image](https://user-images.githubusercontent.com/114022479/200705435-7890c953-265c-4583-bd44-82b8dede58db.png)
+
 
 Por último, mostrar un reporte de los trabajadores con sus datos, su salario bruto, ISR, bono por antigüedad y salario neto a pagar.
+
+## Etapa 2. Diseño de la solución
+
+
+
+## Etapa 3. Diagrama de la solución
+
+
+## Etapa 4. Solución
+
